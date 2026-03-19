@@ -4,7 +4,6 @@ cv:
   location: Canterbury, United Kingdom
   email: brunodosantos@gmail.com
   photo: ../assets/img/bruno-santos.jpg
-  phone: "+44 07955 492308"
   social_networks:
     - network: GitHub
       username: brsantos
@@ -187,15 +186,6 @@ cv:
           - Santos, B.
           - Elian, S.
         journal: Proceedings of the 27th International Workshop on Statistical Modelling
-
-    Working Papers:
-      - date: 2023
-        title: Growth curves for multiple-output response variables via Bayesian quantile regression models
-        authors:
-          - Santos, B.
-          - Rodrigues, A.
-          - Kneib, T.
-        journal: Working paper
 
     Awards:
       - name: Collaborations with Developing Countries, Grant Scheme 5
