@@ -1,189 +1,242 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  name: Bruno Santos
+  headline: Lecturer in Statistics
+  location: Canterbury, United Kingdom
+  email: brunodosantos@gmail.com
+  photo: ../assets/img/bruno-santos.jpg
+  phone: "+44 07955 492308"
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: brsantos
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: University of Sao Paulo
+        area: Statistics
+        degree: PhD
+        start_date: 2012-01
+        end_date: 2016-12
+        location: Sao Paulo, Brazil
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Supervisor: Heleno Bolfarine"
+          - "Thesis title: Extensions of Bayesian quantile regression models"
+          - "Research visit at Duke University (2013-2014) under Alan Gelfand and Surya Tokdar"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Sao Paulo
+        area: Statistics
+        degree: MSc
+        start_date: 2010-01
+        end_date: 2012-12
+        location: Sao Paulo, Brazil
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Supervisor: Silvia Nagib Elian"
+          - "Dissertation title: Quantile regression models"
+
+      - institution: University of Sao Paulo
+        area: Statistics
+        degree: BSc
+        start_date: 2005-01
+        end_date: 2008-12
+        location: Sao Paulo, Brazil
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: University of Kent
+        position: Lecturer in Statistics
+        location: Canterbury, United Kingdom
+        start_date: 2021-09
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - "Teaching: Statistics I; Probability and Classical Inference (2021/2022); Advanced Statistical Modelling; Predictive Modelling (2022/2023)."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Federal University of Espirito Santo (UFES)
+        position: Assistant Professor
+        location: Vitoria, Brazil
+        start_date: 2019-10
+        end_date: 2021-07
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Teaching: Statistics I; Statistics II; Probability and Statistics I; Analysis of Categorical Data; Computational Statistics II."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Georg-August-Universitaet Goettingen
+        position: Postdoctoral Researcher
+        location: Goettingen, Germany
+        start_date: 2018-02
+        end_date: 2019-09
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Teaching: Generalized Regression; Spatial Statistics."
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Federal University of Bahia (UFBA)
+        position: Assistant Professor
+        location: Salvador, Brazil
+        start_date: 2016-12
+        end_date: 2018-01
+        highlights:
+          - "Teaching: Statistical Methods; Bayesian Inference."
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - date: 2022
+        title: Bias reduction of maximum likelihood estimates for an asymmetric class of power models with applications
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Gomez, Y.
+          - Santos, B.
+          - Gallardo, D.
+          - Venegas, O.
+          - Gomez, H.
+        journal: REVSTAT - Statistical Journal
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - date: 2020
+        title: Noncrossing structured additive multiple-output Bayesian quantile regression models
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Santos, B.
+          - Kneib, T.
+        journal: Statistics and Computing
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - date: 2018
+        title: Bayesian quantile regression analysis for continuous data with a discrete component at zero
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Santos, B.
+          - Bolfarine, H.
+        journal: Statistical Modelling
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - date: 2015
+        title: Bayesian analysis for zero-or-one inflated proportion data using quantile regression
+        authors:
+          - Santos, B.
+          - Bolfarine, H.
+        journal: Journal of Statistical Computation and Simulation
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - date: 2015
+        title: Influence measures in quantile regression models
+        authors:
+          - Santos, B.
+          - Elian, S.
+        journal: Communications in Statistics - Theory and Methods
 
-      - name: English
-        summary: "Fluent"
+      - date: 2014
+        title: Association of pollution with quantiles and expectations of the hospitalization rate of elderly people by respiratory diseases in the city of Sao Paulo, Brazil
+        authors:
+          - Alencar, A.
+          - Santos, B.
+        journal: Environmetrics
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Conference Proceedings:
+      - date: 2020
+        title: Growth curves for multiple-output response variables via Bayesian quantile regression models
+        authors:
+          - Santos, B.
+          - Rodrigues, A.
+          - Kneib, T.
+        journal: Proceedings of the 35th International Workshop on Statistical Modelling
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - date: 2018
+        title: Structured additive multiple-output noncrossing Bayesian quantile regression models
+        authors:
+          - Santos, B.
+          - Kneib, T.
+        journal: Proceedings of the 33rd International Workshop on Statistical Modelling
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - date: 2015
+        title: Analysis of Brazil's presidential election via Bayesian spatial quantile regression
+        authors:
+          - Santos, B.
+          - Bolfarine, H.
+        journal: Proceedings of the 30th International Workshop on Statistical Modelling
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - date: 2013
+        title: A two-part model using quantile regression under a Bayesian perspective
+        authors:
+          - Santos, B.
+          - Bolfarine, H.
+        journal: Proceedings of the 28th International Workshop on Statistical Modelling
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - date: 2012
+        title: "Analysis of residuals in quantile regression: an application to income data in Brazil"
+        authors:
+          - Santos, B.
+          - Elian, S.
+        journal: Proceedings of the 27th International Workshop on Statistical Modelling
+
+    Submitted Manuscripts:
+      - date: 2023
+        title: A new approach for studying over-coverage in population registers
+        authors:
+          - Mussino, E.
+          - Santos, B.
+          - Monti, A.
+          - Matechou, E.
+          - Drefahl, S.
+        journal: Submitted
+
+      - date: 2023
+        title: A note about Bayesian quantile regression models
+        authors:
+          - Santos, B.
+          - Bolfarine, H.
+        journal: Submitted
+
+      - date: 2023
+        title: A defective cure rate quantile regression model for male breast cancer data
+        authors:
+          - Rodrigues, A.
+          - Borges, P.
+          - Santos, B.
+        journal: Submitted
+
+      - date: 2023
+        title: Comparing dominance of tennis' big three via multiple-output Bayesian quantile regression models
+        authors:
+          - Santos, B.
+        journal: Submitted
+
+    Working Papers:
+      - date: 2023
+        title: Growth curves for multiple-output response variables via Bayesian quantile regression models
+        authors:
+          - Santos, B.
+          - Rodrigues, A.
+          - Kneib, T.
+        journal: Working paper
+
+    Awards:
+      - name: Collaborations with Developing Countries, Grant Scheme 5
+        date: 2022
+        summary: "London Mathematical Society (Grant amount: GBP 1,972)"
+      - name: 2nd place, Best poster award
+        date: 2018
+        summary: 23rd Brazilian National Symposium of Probability and Statistics
+      - name: Best Student Poster Toyota Corporation Award
+        date: 2015
+        summary: "30th International Workshop on Statistical Modelling (USD 500)"
+      - name: Student Travel Grant
+        date: 2013
+        summary: "28th International Workshop on Statistical Modelling (EUR 800)"
+
+    Teaching:
+      - "University of Kent (2021/2022): Statistics I; Probability and Classical Inference"
+      - "University of Kent (2022/2023): Advanced Statistical Modelling; Predictive Modelling"
+      - "Federal University of Espirito Santo (2019-2021): Statistics I; Statistics II; Probability and Statistics I; Analysis of Categorical Data; Computational Statistics II"
+      - "Georg-August-Universitaet Goettingen (2018-2019): Generalized Regression; Spatial Statistics"
+      - "Federal University of Bahia (2017): Statistical Methods; Bayesian Inference"
+
+    Short Courses:
+      - "3rd Paraibano Meeting of Statistics (2021): Regression models beyond the conditional mean"
+      - "24th Brazilian National Symposium of Probability and Statistics (postponed, 2020): Visualization of spatial effects in regression models"
+      - "XIII School of Regression Models (2013): Regression models with truncated and censored responses"
+      - "Universidad de Antofagasta (2017): Quantile regression: a classical and a Bayesian approach"
+
+    Service and Activities:
+      - Member, Migrating Trajectories research project (University of Stockholm and University of Kent)
+      - Local organizing committee, Movement and migration in ecology workshop (University of Kent, May 2022)
+      - Local organizing committee, 1st Workshop on Data Science and Statistical Learning (UFES, November 2019)
+      - Leader, Observatory of Covid-19 in favelas of Espirito Santo (OCOFA)
+      - Program Committee member, useR! 2021 and useR! 2022 conferences
+
+    Software:
+      - name: baquantreg
+        summary: R package for Bayesian quantile regression.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - "GitHub: https://github.com/brsantos/baquantreg"
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: ggcrqr
+        summary: R package for quantile regression visualization and diagnostics.
+        highlights:
+          - "GitHub: https://github.com/brsantos/ggcrqr"
