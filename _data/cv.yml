@@ -44,9 +44,15 @@ cv:
         position: Lecturer in Statistics
         location: Canterbury, United Kingdom
         start_date: 2021-09
-        end_date: present
+        end_date: 2023-12
         highlights:
           - "Teaching: Statistics I; Probability and Classical Inference (2021/2022); Advanced Statistical Modelling; Predictive Modelling (2022/2023)."
+
+      - company: CEAUL (Centro de Estatistica e Aplicacoes - Universidade de Lisboa)
+        position: Researcher in Statistics
+        location: Lisbon, Portugal
+        start_date: 2024-04
+        end_date: 2025-12
 
       - company: Federal University of Espirito Santo (UFES)
         position: Assistant Professor
@@ -73,7 +79,34 @@ cv:
           - "Teaching: Statistical Methods; Bayesian Inference."
 
     Publications:
-      - date: 2022
+      - date: 2025
+        title: A defective cure rate quantile regression model for male breast cancer data
+        authors:
+          - Rodrigues, A.
+          - Borges, P.
+          - Santos, B.
+        journal: Journal of Applied Statistics, 52(8), 1485-1512
+
+      - date: 2024
+        title: Using population register data and capture-recapture models to estimate over-coverage in Sweden
+        authors:
+          - Santos, B.
+          - Mussino, E.
+          - Drefahl, S.
+          - Matechou, E.
+        journal: Scientific Reports 14, 30551
+
+      - date: 2024
+        title: Multiple systems estimation for studying over-coverage and its heterogeneity in population registers
+        authors:
+          - Mussino, E.
+          - Santos, B.
+          - Monti, A.
+          - Matechou, E.
+          - Drefahl, S.
+        journal: Quality & Quantity 58, 5033-5056
+
+      - date: 2023
         title: Bias reduction of maximum likelihood estimates for an asymmetric class of power models with applications
         authors:
           - Gomez, Y.
@@ -81,7 +114,7 @@ cv:
           - Gallardo, D.
           - Venegas, O.
           - Gomez, H.
-        journal: REVSTAT - Statistical Journal
+        journal: REVSTAT - Statistical Journal, 21(4), 491-507
 
       - date: 2020
         title: Noncrossing structured additive multiple-output Bayesian quantile regression models
@@ -154,38 +187,6 @@ cv:
           - Santos, B.
           - Elian, S.
         journal: Proceedings of the 27th International Workshop on Statistical Modelling
-
-    Submitted Manuscripts:
-      - date: 2023
-        title: A new approach for studying over-coverage in population registers
-        authors:
-          - Mussino, E.
-          - Santos, B.
-          - Monti, A.
-          - Matechou, E.
-          - Drefahl, S.
-        journal: Submitted
-
-      - date: 2023
-        title: A note about Bayesian quantile regression models
-        authors:
-          - Santos, B.
-          - Bolfarine, H.
-        journal: Submitted
-
-      - date: 2023
-        title: A defective cure rate quantile regression model for male breast cancer data
-        authors:
-          - Rodrigues, A.
-          - Borges, P.
-          - Santos, B.
-        journal: Submitted
-
-      - date: 2023
-        title: Comparing dominance of tennis' big three via multiple-output Bayesian quantile regression models
-        authors:
-          - Santos, B.
-        journal: Submitted
 
     Working Papers:
       - date: 2023
