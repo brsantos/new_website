@@ -38,6 +38,12 @@ cv:
         location: Sao Paulo, Brazil
 
     Experience:
+      - company: CEAUL (Centro de Estatistica e Aplicacoes - Universidade de Lisboa)
+        position: Researcher in Statistics
+        location: Lisbon, Portugal
+        start_date: 2024-04
+        end_date: 2025-12
+
       - company: University of Kent
         position: Lecturer in Statistics
         location: Canterbury, United Kingdom
@@ -45,12 +51,6 @@ cv:
         end_date: 2023-12
         highlights:
           - "Teaching: Statistics I; Probability and Classical Inference (2021/2022); Advanced Statistical Modelling; Predictive Modelling (2022/2023)."
-
-      - company: CEAUL (Centro de Estatistica e Aplicacoes - Universidade de Lisboa)
-        position: Researcher in Statistics
-        location: Lisbon, Portugal
-        start_date: 2024-04
-        end_date: 2025-12
 
       - company: Federal University of Espirito Santo (UFES)
         position: Assistant Professor
